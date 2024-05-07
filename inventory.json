@@ -1,0 +1,6 @@
+[
+    {"name": "Chair", "price": 50, "quantity": 20},
+    {"name": "Table", "price": 150, "quantity": 15},
+    {"name": "Sofa", "price": 300, "quantity": 10},
+    {"name": "Bed", "price": 500, "quantity": 5}
+]
